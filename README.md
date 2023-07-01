@@ -26,30 +26,42 @@ Successfully built up a quantization framework to reduce the computation power b
 
 # Reasearches
 
-## Computer Stereo Vision: Point Cloud Enhancement Based on Data Fusion | Python, PyTorch, LiDAR
+## Computer Stereo Vision: Point Cloud Enhancement Based on Data Fusion
+
+Python, PyTorch, LiDAR
 
 Bachelor thesis project on stereo vision. Designed and implemented a deep learning algorithm that makes scene LiDAR point cloud denser and more uniformly distributed by using information gained from monocular images. Increasing the uniformity by nearly 100% comparing to other point cloud upsampling algorithms.
 
-## Wearable Device: Ultrasound Earphone Sensing for Whispered Speech Gestures | Python, PyTorch
+## Wearable Device: Ultrasound Earphone Sensing for Whispered Speech Gestures
+
+Python, PyTorch
 
 A collaborative research project between Toronto U., Tokyo U., and Tsinghua U.. I drew the research protocol,
 set up the analysis pipeline and trained the machine learning model, the recognition rate is 70%.
 
 # Projects
 
-## Hitch Ride Android App for University Students | Java, Android Studio, Firebase, Google Cloud Platform
+## Hitch Ride Android App for University Students
+
+Java, Android Studio, Firebase, Google Cloud Platform
 
 Course project for the Introduction to Mobile Application Development course. We wrote an Android app called By The Way that allowed student to find others for a hitch ride around the campus. Frontend written with Android Studio, backend implemented with Firebase and Google Cloud Platform.
 
-## Context-Based Multimodal HCI Project | Python, TensorFlow, Keras
+## Context-Based Multimodal HCI Project
+
+Python, TensorFlow, Keras
 
 Built up a Recurrent Neural Network that distinguishes emotion within speaking, implemented onto a smart robot that won us the 3rd prize of the 32nd Tsinghua Student Laboratory Contribution Award among a cohort of 147.
 
-## Big Data Processing and Analysis (FloK) Platform of Tsinghua | Python, PyTorch, JavaScript, HTML
+## Big Data Processing and Analysis (FloK) Platform of Tsinghua
+
+Python, PyTorch, JavaScript, HTML
 
 Programmed a ’drag and drop neuron network model building system’.
 
-## Pattern Recognition and Transfer Learning Coursework | Python, PyTorch
+## Pattern Recognition and Transfer Learning Coursework
+
+Python, PyTorch
 
 Increased the recognition accuracies of 3 assigned Convolutional Neural Network models by as much as 11%
 through redesigning and programming in the transfer learning, and generalization processes.
