@@ -68,4 +68,3 @@ through redesigning and programming in the transfer learning, and generalization
 ![Metrics](/metrics.plugin.isocalendar.svg)
 ![Metrics](/metrics.plugin.languages.svg)
 ![Metrics](/metrics.plugin.repositories.svg)
-![Metrics](/github-metrics.svg)
