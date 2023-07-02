@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Yifei Chen. Currently a Master student in Computer Science at UC San Diego.
+I'm Yifei Chen. Currently a Computer Science Master's student at UC San Diego.
 
 # Education
 
@@ -47,6 +47,12 @@ Java, Android Studio, Firebase, Google Cloud Platform
 
 Course project for the Introduction to Mobile Application Development course. We wrote an Android app called By The Way that allowed student to find others for a hitch ride around the campus. Frontend written with Android Studio, backend implemented with Firebase and Google Cloud Platform.
 
+## VR Project
+
+C#, Unity, Oculus Quest
+
+Simulated an outdoor scene with a user wearing Inertial Measurement Units, successfully built up the intention–natural movement–detection–response pipeline to track user motions and interact accordingly.
+
 ## Context-Based Multimodal HCI Project
 
 Python, TensorFlow, Keras
@@ -76,7 +82,69 @@ through redesigning and programming in the transfer learning, and generalization
 
 **Languages:** English(toefl:108) Mandarin(native tongue) Spainish(basic read and write)
 
+# Courses
+
+## @Tsinghua
+- Linear Algebra
+- Data Structures And Algorithms
+- Data Structures
+- Discrete Mathematics
+- Software Engineering
+- Algorithms
+- Computer Science
+- Computer Architecture
+- Software Design
+- Multivariable Calculus
+- object-oriented programing
+- Complex Analysis
+- Electrical Circuits
+- Fundamentals of Digital Electronics
+- Probability And Statistics
+- Human Computer Interaction (Hci)
+- Introduction To Artificial Intelligence
+- Formal Language and Automata
+- Computer Organization Principle
+- Web Front-end Technology
+- Modern Operating System
+- Computer Networks
+- Introduction to Internet of things
+- Machine Learning
+- Principles of Assembly and Compilation
+- Principles of Database Systems
+- Pattern Recognition
+- Fundamentals of Search Engine Technology
+- Software analysis and verification
+- Introduction to Mobile Application Development
+- Performance Optimization for Cloud Services
+- Big Data System Software
+- Model Based Software Design
+- Software Project Management
+- Software Requirements Engineering
+
+# Repos that you may find interesting
+
+## MilkTeaSimulator
+[![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/MilkTeaSimulator)
+
+A webpage app for simulate drinking milk tea (or other stuff).
+
+Place your order and tip your phone for a drink!
+
+## Monkey
+
+[![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/Monkey)
+
+This is where I keep my Tampered Monkey user scripts. It might help you if you are a Tsinghua student. With the exam_arrangement_filter for finding your exam schedule on Tsinghua Info (don't know why they didn't have a button for it), and two theme tools to customize your own Tsinghua online webpage.
+
+## WzryAmongUS
+
+[![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/WzryAmongUS)
+
+This a project build for Replit implementation. If you ever want to play AmongUs in Wzry. Just init a python container in Replit and clone this repo. Then visit the webpage with you and your friends and start rolling out the heros and lanes.
+
 
 ![Metrics](/metrics.plugin.isocalendar.svg)
+
 ![Metrics](/metrics.plugin.languages.svg)
+
 ![Metrics](/metrics.plugin.repositories.svg)
