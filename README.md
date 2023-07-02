@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Yifei Chen. Currently a Computer Science Master's student at UC San Diego.
+I'm Yifei Chen. Currently a Computer Science Master's student at UC San Diego. 💻
 
 # Education
 
@@ -8,7 +8,7 @@ I'm Yifei Chen. Currently a Computer Science Master's student at UC San Diego.
 
 **Bachelor of Engineering**
 
-Major: Software Engineering
+Major: Software Engineering 
 
 ## University of California, San Diego (Sep 2023 — Expected May 2025)
 
@@ -76,9 +76,9 @@ through redesigning and programming in the transfer learning, and generalization
 
 **Programming Languages:** Python, C/C++, Java, Kotlin, C#, Swift, Rust, HTML, JavaScript... 
 
-**Frameworks:** PyTorch, TensorFlow, Keras, Django, QT, Maven, Gradle
+**Frameworks:** PyTorch, TensorFlow, Keras, Django, QT, Maven, Gradle...
 
-**Software Development:** Andriod Studio, XCode
+**Software Development:** Andriod Studio, XCode...
 
 **Languages:** English(toefl:108) Mandarin(native tongue) Spainish(basic read and write)
 
