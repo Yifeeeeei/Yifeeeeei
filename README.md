@@ -4,17 +4,17 @@ I'm Yifei Chen. Currently a Computer Science Master's student at UC San Diego. �
 
 # Education
 
-## Tsinghua University (Sep 2019 — Jul 2023)
-
-**Bachelor of Engineering**
-
-Major: Software Engineering 
-
 ## University of California, San Diego (Sep 2023 — Expected May 2025)
 
 **Master of Science**
 
 Major: Computer Science
+
+## Tsinghua University (Sep 2019 — Jul 2023)
+
+**Bachelor of Engineering**
+
+Major: Software Engineering 
 
 # Internship Experience
 
@@ -26,18 +26,16 @@ Successfully built up a quantization framework to reduce the computation power b
 
 # Reasearches
 
+## ReHEarSE: Recognizing Hidden-in-the-Ear Silent Expressions | Python, PyTorch
+
+Paper submitted to CHI 2024. A collaborative research between U. of Toronto, U. of Tokyo and Tsinghua U. I collected data, designed and implemented the analysis pipeline then trained the machine learning models, reaching 98% accuracy with a state-of-the-art lexicon size.
+
 ## Computer Stereo Vision: Point Cloud Enhancement Based on Data Fusion
 
 Python, PyTorch, LiDAR
 
 Bachelor thesis project on stereo vision. Designed and implemented a deep learning algorithm that makes scene LiDAR point cloud denser and more uniformly distributed by using information gained from monocular images. Increasing the uniformity by nearly 100% comparing to other point cloud upsampling algorithms.
 
-## Wearable Device: Ultrasound Earphone Sensing for Whispered Speech Gestures
-
-Python, PyTorch
-
-A collaborative research project between Toronto U., Tokyo U., and Tsinghua U.. I drew the research protocol,
-set up the analysis pipeline and trained the machine learning model, the recognition rate is 70%.
 
 # Projects
 
