@@ -35,7 +35,7 @@ Source code for automated card drawing.
 
 A webpage app for simulate drinking milk tea (or other stuff).
 
-Place your order and tip your phone for a drink!
+Place your order and tip your phone for a drink [here](https://yifeeeeei.github.io/MilkTeaSimulator/)!
 
 ## Monkey
 
