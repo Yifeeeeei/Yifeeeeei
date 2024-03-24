@@ -2,9 +2,7 @@
 
 # Repos that you may find interesting
 
-## Deck of Sorcery
-
-[![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/Deck_of_Sorcery)
+## Deck of Sorcery Series
 
 A TableTopSimulator based TCG card game.
 
@@ -13,6 +11,24 @@ Browse through the cards and make your own deck [here](https://yifeeeeei.github.
 Subscribe the [this mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3093581820) to build your in-game deck and subscribe [this mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3155709993) to play.
 
 Or directly download the TTS saves [here](https://drive.google.com/drive/folders/1C4G1VXejHsKWljR7k0Te-FQ1DuZdBUEL?usp=drive_link).
+
+### SorceryComposer
+
+[![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/SorceryComposer)
+
+Source code for the deck building UI. Browse throught the collection and build your deck on any platform!
+
+### SorceryImages
+
+[![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/SorceryImages)
+
+Provide resource for the ScorceryComposer UI.
+
+### Deck_of_Sorcery
+
+[![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/Deck_of_Sorcery)
+
+Source code for automated card drawing.
 
 ## MilkTeaSimulator
 [![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/MilkTeaSimulator)
