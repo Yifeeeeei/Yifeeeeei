@@ -8,11 +8,11 @@
 
 A TableTopSimulator based TCG card game.
 
-Browse through the cards and make your own deck [here](https://yifeeeeei.github.io/SorceryComposer/)
+Browse through the cards and make your own deck [here](https://yifeeeeei.github.io/SorceryComposer/).
 
-Subscribe the TTS mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3093581820) to start playing
+Subscribe the [this mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3093581820) to build your in-game deck and subscribe [this mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3155709993) to play.
 
-Or use the TTS saves [here](https://drive.google.com/drive/folders/1C4G1VXejHsKWljR7k0Te-FQ1DuZdBUEL?usp=drive_link)
+Or directly download the TTS saves [here](https://drive.google.com/drive/folders/1C4G1VXejHsKWljR7k0Te-FQ1DuZdBUEL?usp=drive_link).
 
 ## MilkTeaSimulator
 [![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/MilkTeaSimulator)
