@@ -2,7 +2,15 @@
 
 # Repos that you may find interesting
 
-## Deck of Sorcery Series
+## ButterKnife  🧈🗡️
+
+[![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/butterknife)
+
+Butter Knife is a golang package that allow provides better debugging printing functions than fmt or log.
+
+Not only it outputs a variable's value, it also spreads out its caller functions' hierarchy and the corresponding line number onto the terminal.
+
+## Deck of Sorcery Series 🂠
 
 A TableTopSimulator based TCG card game.
 
@@ -30,20 +38,20 @@ Provide resource for the ScorceryComposer UI.
 
 Source code for automated card drawing.
 
-## MilkTeaSimulator
+## MilkTeaSimulator 🥤
 [![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/MilkTeaSimulator)
 
 A webpage app for simulate drinking milk tea (or other stuff).
 
 Place your order and tip your phone for a drink [here](https://yifeeeeei.github.io/MilkTeaSimulator/)!
 
-## Monkey
+## Monkey 🙈
 
 [![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/Monkey)
 
 This is where I keep my Tampered Monkey user scripts. It might help you if you are a Tsinghua student. With the exam_arrangement_filter for finding your exam schedule on Tsinghua Info (don't know why they didn't have a button for it), and two theme tools to customize your own Tsinghua online webpage.
 
-## WzryAmongUS
+## WzryAmongUS 🕵️
 
 [![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/WzryAmongUS)
 
