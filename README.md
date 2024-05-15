@@ -12,7 +12,7 @@ Not only it outputs a variable's value, it also spreads out its caller functions
 
 ## Deck of Sorcery Series 🂠
 
-A TableTopSimulator based TCG card game.
+A TableTopSimulator based TCG.
 
 Browse through the cards and make your own deck [here](https://yifeeeeei.github.io/SorceryComposer/).
 
