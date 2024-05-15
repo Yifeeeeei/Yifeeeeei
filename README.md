@@ -14,9 +14,9 @@ Not only it outputs a variable's value, it also spreads out its caller functions
 
 A TableTopSimulator based TCG.
 
-Browse through the cards and make your own deck with  [![hub](https://img.shields.io/badge/Sorcery_Composer-gray)](https://yifeeeeei.github.io/SorceryComposer/)
+Browse through the cards and make your own deck with [![hub](https://img.shields.io/badge/Sorcery_Composer-gray)](https://yifeeeeei.github.io/SorceryComposer/)
 
-Subscribe this  [![hub](https://img.shields.io/badge/Builder_Mod-gray)](https://steamcommunity.com/sharedfiles/filedetails/?id=3093581820) to build your in-game deck and subscribe this[![hub](https://img.shields.io/badge/Tableset_Mod-gray)](https://steamcommunity.com/sharedfiles/filedetails/?id=3155709993) to play.
+Subscribe this [![hub](https://img.shields.io/badge/Builder_Mod-gray)](https://steamcommunity.com/sharedfiles/filedetails/?id=3093581820) to build your in-game deck and subscribe this [![hub](https://img.shields.io/badge/Tableset_Mod-gray)](https://steamcommunity.com/sharedfiles/filedetails/?id=3155709993) to play.
 
 Or directly download the [![hub](https://img.shields.io/badge/TTS_Saves-gray)](https://drive.google.com/drive/folders/1C4G1VXejHsKWljR7k0Te-FQ1DuZdBUEL?usp=drive_link)
 
