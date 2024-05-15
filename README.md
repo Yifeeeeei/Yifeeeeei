@@ -32,7 +32,7 @@ Codebase for the deck building UI. Browse throught the collection and build your
 
 [![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/SorceryImages)
 
-Provide resource for the SorceryComposer UI as well the TTS mod. I know, you shouldn't use git to store images, its only meant for small stuffs, you should use a CDN service... Well, as the saying goes, "Once I'm rich..."
+Provide resource for the SorceryComposer UI as well the TTS mod. I know, you shouldn't use git to store images, it's only meant for small stuffs, you should use a CDN service... Well, as the saying goes, "Once I'm rich..."
 
 ### Deck_of_Sorcery
 
