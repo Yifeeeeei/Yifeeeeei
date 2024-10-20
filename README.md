@@ -10,35 +10,33 @@ ButterKnife is a golang module that allow provides better debugging printing fun
 
 Not only it outputs a variable's value, it also spreads out its caller functions' hierarchy and the corresponding line number onto the terminal.
 
-## Deck of Sorcery 🂠
+## Era of Arcane 🂠
 
-A TableTopSimulator based TCG. Learn more about it on our website: [![hub](https://img.shields.io/badge/Deck_of_Sorcery-blue)](https://yifeeeeei.github.io/DeckOfSorcery/)
+A TableTopSimulator based TCG. Learn more about it on our website: [![hub](https://img.shields.io/badge/Deck_of_Sorcery-blue)](https://yifeeeeei.github.io/EraOfArcane/)
 
-Browse through the cards and make your own deck with [![hub](https://img.shields.io/badge/Sorcery_Composer-gray)](https://yifeeeeei.github.io/SorceryComposer/)
+Browse through the cards and make your own deck with [![hub](https://img.shields.io/badge/Sorcery_Composer-gray)](https://yifeeeeei.github.io/ArcaneComposer/)
 
-Or enter the  [![hub](https://img.shields.io/badge/Arena-gray)](https://yifeeeeei.github.io/SorceryComposer/Arena/)
+Or enter the  [![hub](https://img.shields.io/badge/Arena-gray)](https://yifeeeeei.github.io/ArcaneComposer/Arena/)
 
-Subscribe this [![hub](https://img.shields.io/badge/Builder_Mod-gray)](https://steamcommunity.com/sharedfiles/filedetails/?id=3093581820) to build your in-game deck and subscribe this [![hub](https://img.shields.io/badge/Tableset_Mod-gray)](https://steamcommunity.com/sharedfiles/filedetails/?id=3155709993) to play.
-
-Or directly download the [![hub](https://img.shields.io/badge/TTS_Saves-gray)](https://drive.google.com/drive/folders/1C4G1VXejHsKWljR7k0Te-FQ1DuZdBUEL?usp=drive_link)
+Subscribe this [![hub](https://img.shields.io/badge/TTS_Mod-gray)](https://steamcommunity.com/sharedfiles/filedetails/?id=3155709993) to play.
 
 It has three major codebases.
 
-### SorceryGo
+### ArcaneGo
 
-[![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/SorceryGo)
+[![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/ArcaneGo)
 
 Source code for automated card drawing. Implemented by Golang with very high performance. This is the codebase where it all started. The very first industrial revolution that allows us to create hundreds of cards without having to spend days on photoshop.
 
-### SorceryComposer
+### ArcaneComposer
 
-[![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/SorceryComposer)
+[![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/ArcaneComposer)
 
 Codebase for the deck building UI. Browse throught the collection and build your deck on any platform! The app is deployed at [![hub](https://img.shields.io/badge/Sorcery_Composer-gray)](https://yifeeeeei.github.io/SorceryComposer/)
 
-### SorceryImages
+### ArcaneImages
 
-[![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/SorceryImages)
+[![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/ArcaneImages)
 
 Provide resource for the SorceryComposer UI as well the TTS mod. I know, you shouldn't use git to store images, it's only meant for small stuffs, you should use a CDN service... Well, as the saying goes, "Once I'm rich..."
 
