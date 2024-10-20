@@ -12,9 +12,9 @@ Not only it outputs a variable's value, it also spreads out its caller functions
 
 ## Era of Arcane 🂠
 
-A TableTopSimulator based TCG. Learn more about it on our website: [![hub](https://img.shields.io/badge/Deck_of_Sorcery-blue)](https://yifeeeeei.github.io/EraOfArcane/)
+A TableTopSimulator based TCG. Learn more about it on our website: [![hub](https://img.shields.io/badge/Era_of_Arcane-blue)](https://yifeeeeei.github.io/EraOfArcane/)
 
-Browse through the cards and make your own deck with [![hub](https://img.shields.io/badge/Sorcery_Composer-gray)](https://yifeeeeei.github.io/ArcaneComposer/)
+Browse through the cards and make your own deck with [![hub](https://img.shields.io/badge/Arcane_Composer-gray)](https://yifeeeeei.github.io/ArcaneComposer/)
 
 Or enter the  [![hub](https://img.shields.io/badge/Arena-gray)](https://yifeeeeei.github.io/ArcaneComposer/Arena/)
 
