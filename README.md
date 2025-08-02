@@ -32,13 +32,13 @@ Source code for automated card drawing. Implemented by Golang with very high per
 
 [![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/ArcaneComposer)
 
-Codebase for the deck building UI. Browse throught the collection and build your deck on any platform! The app is deployed at [![hub](https://img.shields.io/badge/Sorcery_Composer-gray)](https://yifeeeeei.github.io/SorceryComposer/)
+Codebase for the deck building UI. Browse throught the collection and build your deck on any platform! The app is deployed at [![hub](https://img.shields.io/badge/Arcane_Composer-gray)](https://yifeeeeei.github.io/ArcaneComposer/)
 
 ### ArcaneImages
 
 [![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/ArcaneImages)
 
-Provide resource for the SorceryComposer UI as well the TTS mod. I know, you shouldn't use git to store images, it's only meant for small stuffs, you should use a CDN service... Well, as the saying goes, "Once I'm rich..."
+Provide resource for the ArcaneComposer UI as well the TTS mod. I know, you shouldn't use git to store images, it's only meant for small stuffs, you should use a CDN service... Well, as the saying goes, "Once I'm rich..."
 
 ## MilkTeaSimulator 🥤
 [![hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yifeeeeei/MilkTeaSimulator)
